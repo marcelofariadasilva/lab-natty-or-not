@@ -4,7 +4,7 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, Marcelo, aluno do professor Venilton da DIO.ME! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Natural ou Fake Natty?
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A ideia aqui é gerar a dúvida no público se a mulher do vídeo é real ou fake. Uma brincadeira que mostra como as IAs estão avançadas no realismo em criações sobre diversos assuntos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+As tecnologias que foram utilizadas no processo foi com I.A. Generativa que transforma imagem através de prompt de texto, tecnologia essa disponibilizada por plataformas de I.A. 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizamos o site "https://leonardo.ai/" para gerar o avatar da mulher o mais realistico possível; depois levamos a imagem parao site "https://app.pixverse.ai/" e pedimos que fosse criada a aniamação da cena e selecionamos os efeitos que o próprio site disponibiliza. Tendo em mãos o vídeo com a cena animada, passamos então o vídeo pela edição no TikTok para juntar uma música que desse emoção à cena.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Aqui vocês podem conferir o resultado: https://vm.tiktok.com/ZMkYXofTo/
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+É muito gratificante aprender sobre esse novo mercado que impacta todos os setores e a cada dia surge novidades de melhorias para aumentar a produtividade e automatizar processos que antes dependiam inteiramente de nós.
 ```
 
 ### Exemplos e Insigths
